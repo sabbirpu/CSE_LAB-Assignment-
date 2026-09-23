@@ -10,7 +10,7 @@ int main() {
    x=a;
     a=b;
     b=x;
-    printf("enter swaping:%d\n");
+   printf("after swaping:\n");
         printf("a=%d\n",a);
      printf("b=%d",b);
     
